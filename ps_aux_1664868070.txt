@@ -1,0 +1,324 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0 167964 11312 ?        Ss   сен29   0:06 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    сен29   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   сен29   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   сен29   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   сен29   0:00 [netns]
+root           7  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/0:0H-events_highpri]
+root           9  0.0  0.0      0     0 ?        I<   сен29   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    сен29   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    сен29   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    сен29   0:04 [ksoftirqd/0]
+root          13  0.0  0.0      0     0 ?        I    сен29   3:34 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    сен29   0:00 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/0]
+root          18  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/1]
+root          19  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/1]
+root          20  0.0  0.0      0     0 ?        S    сен29   0:19 [migration/1]
+root          21  0.0  0.0      0     0 ?        S    сен29   0:02 [ksoftirqd/1]
+root          23  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/1:0H-events_highpri]
+root          24  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/2]
+root          25  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/2]
+root          26  0.0  0.0      0     0 ?        S    сен29   0:24 [migration/2]
+root          27  0.0  0.0      0     0 ?        S    сен29   0:01 [ksoftirqd/2]
+root          29  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/2:0H-events_highpri]
+root          30  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/3]
+root          31  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/3]
+root          32  0.0  0.0      0     0 ?        S    сен29   0:00 [migration/3]
+root          33  0.0  0.0      0     0 ?        S    сен29   0:02 [ksoftirqd/3]
+root          35  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/3:0H-events_highpri]
+root          36  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/4]
+root          37  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/4]
+root          38  0.0  0.0      0     0 ?        S    сен29   0:48 [migration/4]
+root          39  0.0  0.0      0     0 ?        S    сен29   0:09 [ksoftirqd/4]
+root          41  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/4:0H-events_highpri]
+root          42  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/5]
+root          43  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/5]
+root          44  0.0  0.0      0     0 ?        S    сен29   0:48 [migration/5]
+root          45  0.0  0.0      0     0 ?        S    сен29   0:01 [ksoftirqd/5]
+root          47  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/5:0H-events_highpri]
+root          48  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/6]
+root          49  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/6]
+root          50  0.0  0.0      0     0 ?        S    сен29   0:50 [migration/6]
+root          51  0.0  0.0      0     0 ?        S    сен29   0:25 [ksoftirqd/6]
+root          53  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/6:0H-events_highpri]
+root          54  0.0  0.0      0     0 ?        S    сен29   0:00 [cpuhp/7]
+root          55  0.0  0.0      0     0 ?        S    сен29   0:00 [idle_inject/7]
+root          56  0.0  0.0      0     0 ?        S    сен29   0:47 [migration/7]
+root          57  0.0  0.0      0     0 ?        S    сен29   0:00 [ksoftirqd/7]
+root          59  0.0  0.0      0     0 ?        I<   сен29   0:00 [kworker/7:0H-events_highpri]
+root          60  0.0  0.0      0     0 ?        S    сен29   0:00 [kdevtmpfs]
+root          61  0.0  0.0      0     0 ?        I<   сен29   0:00 [inet_frag_wq]
+root          62  0.0  0.0      0     0 ?        S    сен29   0:00 [kauditd]
+root          64  0.0  0.0      0     0 ?        S    сен29   0:00 [khungtaskd]
+root          65  0.0  0.0      0     0 ?        S    сен29   0:00 [oom_reaper]
+root          66  0.0  0.0      0     0 ?        I<   сен29   0:00 [writeback]
+root          67  0.0  0.0      0     0 ?        S    сен29   1:47 [kcompactd0]
+root          68  0.0  0.0      0     0 ?        SN   сен29   0:00 [ksmd]
+root          69  0.0  0.0      0     0 ?        SN   сен29   0:01 [khugepaged]
+root         115  0.0  0.0      0     0 ?        I<   сен29   0:00 [kintegrityd]
+root         116  0.0  0.0      0     0 ?        I<   сен29   0:00 [kblockd]
+root         117  0.0  0.0      0     0 ?        I<   сен29   0:00 [blkcg_punt_bio]
+root         119  0.0  0.0      0     0 ?        I<   сен29   0:00 [tpm_dev_wq]
+root         120  0.0  0.0      0     0 ?        I<   сен29   0:00 [ata_sff]
+root         121  0.0  0.0      0     0 ?        I<   сен29   0:00 [md]
+root         122  0.0  0.0      0     0 ?        I<   сен29   0:00 [edac-poller]
+root         123  0.0  0.0      0     0 ?        I<   сен29   0:00 [devfreq_wq]
+root         124  0.0  0.0      0     0 ?        S    сен29   0:00 [watchdogd]
+root         126  0.0  0.0      0     0 ?        I<   сен29   0:06 [kworker/0:1H-events_highpri]
+root         128  0.0  0.0      0     0 ?        S    сен29   0:37 [kswapd0]
+root         129  0.0  0.0      0     0 ?        S    сен29   0:00 [ecryptfs-kthrea]
+root         133  0.0  0.0      0     0 ?        I<   сен29   0:00 [kthrotld]
+root         134  0.0  0.0      0     0 ?        S    сен29   0:00 [irq/124-pciehp]
+root         138  0.0  0.0      0     0 ?        I<   сен29   0:00 [acpi_thermal_pm]
+root         139  0.0  0.0      0     0 ?        I<   сен29   0:07 [kworker/1:1H-events_highpri]
+root         141  0.0  0.0      0     0 ?        I<   сен29   0:00 [vfio-irqfd-clea]
+root         142  0.0  0.0      0     0 ?        I<   сен29   0:09 [kworker/5:1H-events_highpri]
+root         145  0.0  0.0      0     0 ?        I<   сен29   0:00 [mld]
+root         146  0.0  0.0      0     0 ?        I<   сен29   0:05 [kworker/2:1H-events_highpri]
+root         147  0.0  0.0      0     0 ?        I<   сен29   0:00 [ipv6_addrconf]
+root         157  0.0  0.0      0     0 ?        I<   сен29   0:00 [kstrp]
+root         160  0.0  0.0      0     0 ?        I<   сен29   0:00 [zswap-shrink]
+root         168  0.0  0.0      0     0 ?        I<   сен29   0:00 [charger_manager]
+root         190  0.0  0.0      0     0 ?        I<   сен29   0:07 [kworker/3:1H-events_highpri]
+root         222  0.0  0.0      0     0 ?        I<   сен29   0:08 [kworker/4:1H-events_highpri]
+root         229  0.0  0.0      0     0 ?        I<   сен29   0:00 [cryptd]
+root         230  0.0  0.0      0     0 ?        I<   сен29   0:00 [nvme-wq]
+root         231  0.0  0.0      0     0 ?        I<   сен29   0:00 [nvme-reset-wq]
+root         232  0.0  0.0      0     0 ?        I<   сен29   0:00 [nvme-delete-wq]
+root         253  0.0  0.0      0     0 ?        I<   сен29   0:11 [kworker/6:1H-events_highpri]
+root         256  0.1  0.0      0     0 ?        S    сен29   7:40 [irq/145-GXT7863]
+root         257  0.0  0.0      0     0 ?        I<   сен29   0:21 [kworker/7:1H-events_highpri]
+root         259  0.0  0.0      0     0 ?        S    сен29   0:00 [card0-crtc0]
+root         260  0.0  0.0      0     0 ?        S    сен29   0:00 [card0-crtc1]
+root         261  0.0  0.0      0     0 ?        S    сен29   0:00 [card0-crtc2]
+root         262  0.0  0.0      0     0 ?        S    сен29   0:00 [card0-crtc3]
+root         375  0.0  0.0      0     0 ?        S    сен29   0:02 [jbd2/nvme0n1p2-]
+root         376  0.0  0.0      0     0 ?        I<   сен29   0:00 [ext4-rsv-conver]
+root         422  0.0  0.1  81132 18288 ?        S<s  сен29   0:03 /lib/systemd/systemd-journald
+root         459  0.0  0.0  26680  5524 ?        Ss   сен29   0:02 /lib/systemd/systemd-udevd
+root         489  0.0  0.0      0     0 ?        I<   сен29   0:00 [ipmi-msghandler]
+root         656  0.0  0.0      0     0 ?        I<   сен29   0:00 [cfg80211]
+root         665  0.0  0.0      0     0 ?        S    сен29   0:00 [nv_queue]
+root         666  0.0  0.0      0     0 ?        S    сен29   0:00 [nv_queue]
+root         667  0.0  0.0      0     0 ?        S    сен29   3:03 [irq/156-iwlwifi]
+root         668  0.0  0.0      0     0 ?        S    сен29   1:34 [irq/157-iwlwifi]
+root         669  0.0  0.0      0     0 ?        S    сен29   0:46 [irq/158-iwlwifi]
+root         670  0.0  0.0      0     0 ?        S    сен29   1:31 [irq/159-iwlwifi]
+root         671  0.0  0.0      0     0 ?        S    сен29   1:11 [irq/160-iwlwifi]
+root         672  0.0  0.0      0     0 ?        S    сен29   1:11 [irq/161-iwlwifi]
+root         673  0.0  0.0      0     0 ?        S    сен29   1:11 [irq/162-iwlwifi]
+root         674  0.0  0.0      0     0 ?        S    сен29   1:35 [irq/163-iwlwifi]
+root         676  0.0  0.0      0     0 ?        S    сен29   2:02 [irq/164-iwlwifi]
+root         677  0.0  0.0      0     0 ?        S    сен29   0:00 [irq/165-iwlwifi]
+root         698  0.0  0.0      0     0 ?        S    сен29   0:00 [nvidia-modeset/]
+root         699  0.0  0.0      0     0 ?        S    сен29   0:00 [nvidia-modeset/]
+root         713  0.0  0.0      0     0 ?        S    сен29   0:01 [irq/168-nvidia]
+root         715  0.0  0.0      0     0 ?        S    сен29   0:01 [nv_queue]
+root         727  0.0  0.0      0     0 ?        S    сен29   0:04 [irq/169-AudioDS]
+root         742  0.0  0.0      0     0 ?        S    сен29   0:13 [jbd2/nvme0n1p3-]
+root         743  0.0  0.0      0     0 ?        I<   сен29   0:00 [ext4-rsv-conver]
+systemd+     771  0.0  0.0  25920 11484 ?        Ss   сен29   0:08 /lib/systemd/systemd-resolved
+systemd+     772  0.0  0.0  89376  4588 ?        Ssl  сен29   0:00 /lib/systemd/systemd-timesyncd
+root         775  0.0  0.0   8580  4928 ?        Ss   сен29   0:04 /usr/sbin/haveged --Foreground --verbose=1
+root         846  0.0  0.0 240124  6528 ?        Ssl  сен29   0:03 /usr/libexec/accounts-daemon
+root         847  0.0  0.0   2812  1128 ?        Ss   сен29   0:03 /usr/sbin/acpid
+avahi        850  0.0  0.0   7780  3612 ?        Ss   сен29   0:09 avahi-daemon: running [dbotsman-pc.local]
+root         851  0.0  0.0  10812  4988 ?        Ss   сен29   0:00 /usr/lib/bluetooth/bluetoothd
+root         852  0.0  0.0   9496  2688 ?        Ss   сен29   0:00 /usr/sbin/cron -f -P
+message+     853  0.0  0.0  11276  6592 ?        Ss   сен29   0:55 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         855  0.0  0.0 260880 14524 ?        Ssl  сен29   0:37 /usr/sbin/NetworkManager --no-daemon
+root         861  0.0  0.0 236716  5864 ?        Ssl  сен29   0:00 /usr/libexec/iio-sensor-proxy
+root         863  0.0  0.0  82800  3616 ?        Ssl  сен29   0:11 /usr/sbin/irqbalance --foreground
+root         864  0.0  0.0  35464 15752 ?        Ss   сен29   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         865  0.0  0.0 237180  8880 ?        Ssl  сен29   0:03 /usr/libexec/polkitd --no-debug
+root         867  0.0  0.0 240100  6156 ?        Ssl  сен29   0:00 /usr/libexec/power-profiles-daemon
+syslog       869  0.0  0.0 222400  4752 ?        Ssl  сен29   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         873  0.0  0.0  11388  5156 ?        Ss   сен29   0:00 /usr/sbin/smartd -n
+root         874  0.0  0.1 1539928 19536 ?       Ssl  сен29   0:20 /usr/lib/snapd/snapd
+root         876  0.0  0.0  48408  5728 ?        Ss   сен29   0:02 /lib/systemd/systemd-logind
+root         878  0.0  0.0 276192  9448 ?        Ssl  сен29   0:22 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         879  0.0  0.0 394352 11944 ?        Ssl  сен29   2:28 /usr/libexec/udisks2/udisksd
+root         881  0.0  0.0  17892  8820 ?        Ss   сен29   0:09 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        888  0.0  0.0   7440   344 ?        S    сен29   0:00 avahi-daemon: chroot helper
+root         911  0.0  0.1 453020 18120 ?        Ssl  сен29   0:01 /opt/cisco/anyconnect/bin/vpnagentd -execv_instance
+root         926  0.0  0.0 317184  8312 ?        Ssl  сен29   0:00 /usr/sbin/ModemManager
+root         928  0.0  0.0 240248  6208 ?        Ssl  сен29   0:01 /usr/libexec/boltd
+root        1019  0.0  0.0      0     0 ?        S    сен29   0:00 [UVM global queu]
+root        1020  0.0  0.0      0     0 ?        S    сен29   0:00 [UVM deferred re]
+root        1021  0.0  0.0      0     0 ?        S    сен29   0:00 [UVM Tools Event]
+nvidia-+    1028  0.0  0.0   5288  1784 ?        Ss   сен29   0:00 /usr/bin/nvidia-persistenced --user nvidia-persistenced --no-persistence-mode --verbose
+root        1049  0.0  0.1 112448 17772 ?        Ssl  сен29   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root        1051  0.0  0.0 140736 11692 ?        Ssl  сен29   0:00 /usr/bin/sddm
+root        1056  1.1  0.7 27043328 119472 tty1  Ssl+ сен29  77:06 /usr/lib/xorg/Xorg -nolisten tcp -auth /var/run/sddm/{4ab0542d-a1e2-42af-a053-4f77bf6f3773} -background none -noreset -displayfd 17 -seat seat0 vt1
+root        1080  0.0  0.0 242828  7772 ?        Ssl  сен29   0:07 /usr/libexec/upowerd
+rtkit       1218  0.0  0.0 154000  1280 ?        SNsl сен29   0:02 /usr/libexec/rtkit-daemon
+root        1261  0.0  0.0      0     0 ?        S<   сен29   0:00 [krfcommd]
+kernoops    1306  0.0  0.0  13080   452 ?        Ss   сен29   0:00 /usr/sbin/kerneloops --test
+kernoops    1314  0.0  0.0  13080   448 ?        Ss   сен29   0:00 /usr/sbin/kerneloops
+root        1355  0.0  0.0  58540 10880 ?        S    сен29   0:00 /usr/lib/x86_64-linux-gnu/sddm/sddm-helper --socket /tmp/sddm-auth5709abbc-1c33-4406-be86-c96dfb9bd273 --id 1 --start /usr/bin/startplasma-x11 --user dbotsman
+dbotsman    1357  0.0  0.0  18564  8100 ?        Ss   сен29   0:01 /lib/systemd/systemd --user
+dbotsman    1358  0.0  0.0 169744  3828 ?        S    сен29   0:00 (sd-pam)
+dbotsman    1364  0.0  0.0  39984  5876 ?        S<sl сен29   0:00 /usr/bin/pipewire
+dbotsman    1365  0.0  0.0  23620  4492 ?        Ssl  сен29   0:00 /usr/bin/pipewire-media-session
+dbotsman    1366  0.8  0.1 2056660 26332 ?       S<sl сен29  56:40 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+dbotsman    1369  0.0  0.0 240884  4232 ?        Sl   сен29   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+dbotsman    1374  0.0  0.0  10172  5472 ?        Ss   сен29   0:10 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dbotsman    1378  0.0  0.0 282860 15980 ?        Sl   сен29   0:05 /usr/bin/kwalletd5 --pam-login 7 8
+dbotsman    1379  0.0  0.0 194412 14072 ?        Sl   сен29   0:00 /usr/bin/startplasma-x11
+dbotsman    1494  0.0  0.0   7968  2872 ?        Ss   сен29   0:00 /usr/bin/ssh-agent /usr/bin/im-launch /usr/bin/startplasma-x11
+dbotsman    1552  0.0  0.0 239096  6348 ?        Sl   сен29   0:00 /usr/libexec/pulse/gsettings-helper
+dbotsman    1609  0.0  0.0 194404 14012 ?        Sl   сен29   0:00 /usr/bin/plasma_session
+dbotsman    1613  0.0  0.0   2684     8 ?        S    сен29   0:00 /usr/lib/x86_64-linux-gnu/libexec/kf5/start_kdeinit
+dbotsman    1614  0.0  0.0 116840  9960 ?        Ss   сен29   0:00 kdeinit5: Running...
+dbotsman    1617  0.0  0.0 280924 14960 ?        Sl   сен29   0:05 /usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher --fd=9
+dbotsman    1629  0.0  0.2 1413060 46248 ?       Sl   сен29   0:44 /usr/bin/kded5
+dbotsman    1632  1.2  0.6 5494432 103924 ?      Sl   сен29  85:35 /usr/bin/kwin_x11
+dbotsman    1638  0.0  0.0 156828  3616 ?        Ssl  сен29   0:00 /usr/libexec/dconf-service
+dbotsman    1643  0.0  0.0   7876  3560 ?        S    сен29   0:00 /usr/bin/xsettingsd
+dbotsman    1664  0.0  0.1 285992 21928 ?        Sl   сен29   0:09 /usr/bin/ksmserver
+dbotsman    1665  0.0  0.1 282248 19548 ?        Ssl  сен29   0:08 /usr/bin/kglobalaccel5
+dbotsman    1667  0.0  0.1 543896 21888 ?        Ssl  сен29   0:06 /usr/lib/x86_64-linux-gnu/libexec/kactivitymanagerd
+dbotsman    1683  0.0  0.1 832724 23920 ?        Sl   сен29   0:19 /usr/lib/x86_64-linux-gnu/libexec/org_kde_powerdevil
+dbotsman    1688  0.1  1.7 5898612 279644 ?      Sl   сен29  11:15 /usr/bin/plasmashell
+dbotsman    1690  0.0  0.0 285160 15644 ?        Sl   сен29   0:08 /usr/bin/kaccess
+dbotsman    1692  0.0  0.0 230120 12300 ?        Sl   сен29   0:05 /usr/bin/xembedsniproxy
+dbotsman    1694  0.0  0.1 431932 17672 ?        Sl   сен29   0:05 /usr/lib/x86_64-linux-gnu/libexec/polkit-kde-authentication-agent-1
+dbotsman    1730  0.0  0.1 373432 16840 ?        Sl   сен29   0:14 /usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+dbotsman    1739  0.0  0.1 359720 17916 ?        Sl   сен29   0:14 /usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+dbotsman    1741  0.0  0.0 231064 12344 ?        Sl   сен29   0:05 /usr/bin/gmenudbusmenuproxy
+root        1775  0.0  0.2 373300 37192 ?        Ssl  сен29   0:27 /usr/libexec/packagekitd
+dbotsman    1784  0.0  0.4 1424188 66456 ?       Sl   сен29   1:11 /usr/bin/yakuake -session 1010413f133e2000165895573200000014280018_1664392309_480387
+dbotsman    1790  0.0  0.0 223352 14216 ?        Ssl  сен29   0:06 /usr/lib/x86_64-linux-gnu/libexec/kf5/kscreen_backend_launcher
+dbotsman    1809  0.0  0.0  46948  5724 ?        Ss   сен29   0:00 /usr/lib/bluetooth/obexd
+dbotsman    1819  0.3  3.8 5432244 627360 ?      SLl  сен29  19:47 /usr/bin/telegram-desktop -workdir /home/dbotsman/.local/share/TelegramDesktop/ -autostart
+dbotsman    1844  0.0  0.0 309592  5784 ?        Sl   сен29   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+dbotsman    1852  0.0  0.0 237108  3876 ?        Sl   сен29   0:00 /usr/libexec/geoclue-2.0/demos/agent
+dbotsman    1860  0.0  0.0   8428  3644 ?        S    сен29   0:01 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+dbotsman    1897  0.0  0.0 755136 12044 ?        Ssl  сен29   0:05 /usr/libexec/xdg-desktop-portal
+dbotsman    1902  0.0  0.0 760160  6164 ?        Ssl  сен29   0:01 /usr/libexec/xdg-document-portal
+dbotsman    1907  0.0  0.0 236148  4260 ?        Ssl  сен29   0:00 /usr/libexec/xdg-permission-store
+root        1913  0.0  0.0   2792  1000 ?        Ss   сен29   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+dbotsman    1917  0.0  0.0 337340 13576 ?        Ssl  сен29   0:01 /usr/libexec/xdg-desktop-portal-gtk
+dbotsman    1922  0.0  0.0 162744  6136 ?        Sl   сен29   0:08 /usr/libexec/at-spi2-registryd --use-gnome-session
+dbotsman    1926  0.0  0.0 240640  6648 ?        Ssl  сен29   0:00 /usr/libexec/gvfsd
+dbotsman    1936  0.0  0.2 1029356 46092 ?       Ssl  сен29   0:13 /usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde
+dbotsman    1950  0.0  0.0 240632  5932 ?        Sl   сен29   0:00 /usr/bin/gnome-keyring-daemon --start --foreground --components=secrets
+dbotsman    2057  0.8  2.0 34443188 338056 ?     Sl   сен29  53:06 /opt/google/chrome/chrome --enable-crashpad
+dbotsman    2062  0.0  0.0   8512   836 ?        S    сен29   0:00 cat
+dbotsman    2063  0.0  0.0   8512   828 ?        S    сен29   0:00 cat
+dbotsman    2065  0.0  0.0 33575808 2480 ?       Sl   сен29   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/dbotsman/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=106.0.5249.61 --initial-client-fd=5 --shared-client-connection
+dbotsman    2067  0.0  0.0 33567596 588 ?        Sl   сен29   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/dbotsman/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=106.0.5249.61 --initial-client-fd=4 --shared-client-connection
+dbotsman    2073  0.0  0.1 33846664 22564 ?      S    сен29   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+dbotsman    2074  0.0  0.1 33846652 26620 ?      S    сен29   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+dbotsman    2075  0.0  0.0 33563436 2412 ?       S    сен29   0:00 /opt/google/chrome/nacl_helper
+dbotsman    2078  0.0  0.0 33846680 7976 ?       S    сен29   0:03 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+dbotsman    2100  2.8  1.2 34789276 194244 ?     Sl   сен29 190:37 /opt/google/chrome/chrome --type=gpu-process --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman    2102  0.3  0.5 33923624 87596 ?      Sl   сен29  23:23 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072 --enable-crashpad
+dbotsman    2109  0.0  0.2 33904452 40324 ?      Sl   сен29   0:50 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman    2163  0.0  1.5 1184030644 249768 ?   Sl   сен29   5:59 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=24181330 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman    2238  0.0  0.5 1184018176 84504 ?    Sl   сен29   2:13 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=26221414 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman    2252  0.0  0.1 301316 19604 ?        Sl   сен29   0:33 /usr/bin/plasma-browser-integration-host chrome-extension://cimiefiiaegbelhefglklhhakcgmhkai/
+dbotsman    2359  0.3  0.2 34174260 42548 ?      Sl   сен29  20:30 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072 --enable-crashpad
+dbotsman    2415  0.0  0.0  86844 11972 ?        S    сен29   0:01 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kded5VEKhHa.1.slave-socket
+dbotsman    2417  0.0  0.0  86844 11724 ?        S    сен29   0:01 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/kded5SnwEfk.2.slave-socket
+dbotsman    6230  0.0  0.0 160576 11624 ?        Sl   сен29   2:41 /usr/lib/x86_64-linux-gnu/libexec/kf5/kio_http_cache_cleaner
+dbotsman    9366  0.0  0.1 282328 20316 ?        Ssl  сен30   0:07 /usr/lib/x86_64-linux-gnu/libexec/baloorunner
+dbotsman    9606  0.0  0.0 1089124 10688 ?       Sl   сен30   0:05 /usr/bin/snap userd
+dbotsman   12614  0.0  0.0 281688  9600 ?        Sl   сен30   0:00 /usr/libexec/gvfsd-http --spawner :1.51 /org/gtk/gvfs/exec_spaw/0
+root       60170  0.0  0.0      0     0 ?        I<   окт01   0:00 [uas]
+root       71811  0.0  0.0  73000 11712 ?        Ss   окт02   0:00 /usr/sbin/cupsd -l
+root       71814  0.0  0.0 172612  9468 ?        Ssl  окт02   0:00 /usr/sbin/cups-browsed
+dbotsman   81956  0.0  0.0  15108  4696 pts/1    Ss+  окт02   0:00 /bin/bash
+dbotsman   83685  0.0  0.1  27352 25444 ?        Ss   окт02   2:07 /usr/lib/wine/wineserver64 -p0
+dbotsman   83691  0.0  0.0 2369380 11888 ?       Ssl  окт02   0:00 C:\windows\system32\services.exe
+dbotsman   83702  0.0  0.0 1907732 5656 ?        Sl   окт02   0:00 C:\windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+dbotsman   83704  0.0  0.0 2683520 11320 ?       Sl   окт02   0:00 C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c
+dbotsman   83710  0.0  0.0 1981772 6364 ?        Sl   окт02   0:13 C:\windows\system32\winedevice.exe
+dbotsman   83716  1.0  0.1 2084732 19664 ?       Sl   окт02  25:48 C:\windows\system32\winedevice.exe
+dbotsman   83727  0.0  0.1 1994548 17316 ?       Sl   окт02   0:00 C:\windows\system32\plugplay.exe
+dbotsman   83739  0.0  0.1 2170100 16884 ?       Sl   окт02   0:00 C:\windows\system32\rpcss.exe
+dbotsman  104540  0.0  1.0 1184051680 175984 ?   Sl   окт03   0:50 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1933 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125799357315 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104573  0.1  1.0 1184360932 163316 ?   Sl   окт03   1:58 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1941 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125804395958 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104579  0.1  1.0 1184115084 172320 ?   Sl   окт03   2:03 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1942 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125804404241 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104621  0.0  0.6 1184018324 99320 ?    Sl   окт03   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1946 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125805008620 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104644  0.0  1.0 1184303260 173080 ?   Sl   окт03   0:26 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1932 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125807602362 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104685  0.0  0.8 1184018320 136368 ?   Sl   окт03   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1948 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125809270384 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104724  0.0  1.1 1184116624 190500 ?   Sl   окт03   0:12 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1949 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125809799727 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104755  0.0  0.7 1184029476 118388 ?   Sl   окт03   0:04 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1951 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125810108591 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104771  0.2  1.1 1184114044 184748 ?   Sl   окт03   2:26 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1938 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125810704043 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104786  0.1  1.0 1184114140 171200 ?   Sl   окт03   2:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1940 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125811007155 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104819  0.1  1.1 1184377324 188980 ?   Sl   окт03   2:13 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1939 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125812487498 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104956  0.1  1.1 1184385960 184720 ?   Sl   окт03   2:05 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1936 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125820413723 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  104957  0.1  1.0 1184114460 172304 ?   Sl   окт03   2:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1935 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125820415459 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  105008  0.2  1.1 1184115084 190900 ?   Sl   окт03   2:29 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=1934 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=125823507171 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  111794  4.1 15.4 9589496 2503416 ?     Sl   окт03  45:47 /snap/pycharm-community/298/jbr/bin/java -classpath /snap/pycharm-community/298/lib/util.jar:/snap/pycharm-community/298/lib/app.jar:/snap/pycharm-community/298/lib/3rd-party-rt.jar:/snap/pycharm-community/298/lib/jna.jar:/snap/pycharm-community/298/lib/platform-statistics-devkit.jar:/snap/pycharm-community/298/lib/jps-model.jar:/snap/pycharm-community/298/lib/rd-core.jar:/snap/pycharm-community/298/lib/rd-framework.jar:/snap/pycharm-community/298/lib/stats.jar:/snap/pycharm-community/298/lib/protobuf.jar:/snap/pycharm-community/298/lib/external-system-rt.jar:/snap/pycharm-community/298/lib/forms_rt.jar:/snap/pycharm-community/298/lib/intellij-test-discovery.jar:/snap/pycharm-community/298/lib/rd-swing.jar:/snap/pycharm-community/298/lib/groovy.jar:/snap/pycharm-community/298/lib/annotations-java5.jar:/snap/pycharm-community/298/lib/asm-9.2.jar:/snap/pycharm-community/298/lib/asm-analysis-9.2.jar:/snap/pycharm-community/298/lib/asm-commons-9.2.jar:/snap/pycharm-community/298/lib/asm-tree-9.2.jar:/snap/pycharm-community/298/lib/asm-util-9.2.jar:/snap/pycharm-community/298/lib/byte-buddy-agent.jar:/snap/pycharm-community/298/lib/error-prone-annotations.jar:/snap/pycharm-community/298/lib/externalProcess-rt.jar:/snap/pycharm-community/298/lib/grpc-netty-shaded.jar:/snap/pycharm-community/298/lib/intellij-coverage-agent-1.0.673.jar:/snap/pycharm-community/298/lib/jetbrains-annotations.jar:/snap/pycharm-community/298/lib/jffi-1.3.9-native.jar:/snap/pycharm-community/298/lib/jffi-1.3.9.jar:/snap/pycharm-community/298/lib/jnr-a64asm-1.0.0.jar:/snap/pycharm-community/298/lib/jnr-ffi-2.2.12.jar:/snap/pycharm-community/298/lib/jnr-x86asm-1.0.2.jar:/snap/pycharm-community/298/lib/jsch-agent.jar:/snap/pycharm-community/298/lib/junit4.jar:/snap/pycharm-community/298/lib/junixsocket-core.jar:/snap/pycharm-community/298/lib/lz4-java.jar:/snap/pycharm-community/298/lib/platform-objectSerializer-annotations.jar:/snap/pycharm-community/298/lib/pty4j.jar:/snap/pycharm-community/298/lib/rd-text.jar:/snap/pycharm-community/298/lib/util_rt.jar:/snap/pycharm-community/298/lib/winp.jar:/snap/pycharm-community/298/lib/dbus-java-3.2.1.jar:/snap/pycharm-community/298/lib/java-utils-1.0.6.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=512m -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -XX:+IgnoreUnrecognizedVMOptions -XX:CompileCommand=exclude,com/intellij/openapi/vfs/impl/FilePartNodeRoot,trieDescend -ea -Dsun.io.useCanonCaches=false -Dsun.java2d.metal=true -Djbr.catch.SIGABRT=true -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -Xmx1972m -XX:ErrorFile=/home/dbotsman/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/dbotsman/java_error_in_pycharm_.hprof -Djb.vmOptionsFile=/home/dbotsman/.config/JetBrains/PyCharmCE2022.2/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.strict.classpath=true -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2022.2 -Didea.platform.prefix=PyCharmCore -Dsplash=true --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.reflect=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.nio=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.text=ALL-UNNAMED --add-opens=java.base/java.time=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED --add-opens=java.base/sun.nio.ch=ALL-UNNAMED --add-opens=java.base/sun.security.ssl=ALL-UNNAMED --add-opens=java.base/sun.security.util=ALL-UNNAMED --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED --add-opens=java.desktop/java.awt=ALL-UNNAMED --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED --add-opens=java.desktop/java.awt.event=ALL-UNNAMED --add-opens=java.desktop/java.awt.image=ALL-UNNAMED --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED --add-opens=java.desktop/sun.awt=ALL-UNNAMED --add-opens=java.desktop/sun.font=ALL-UNNAMED --add-opens=java.desktop/sun.java2d=ALL-UNNAMED --add-opens=java.desktop/sun.swing=ALL-UNNAMED --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED com.intellij.idea.Main
+dbotsman  111905  0.0  0.0   4864  2900 ?        S    окт03   0:02 /snap/pycharm-community/298/bin/fsnotifier
+dbotsman  111972  0.0  0.0  15636  6932 pts/2    Ss+  окт03   0:00 /bin/bash --rcfile /snap/pycharm-community/298/plugins/terminal/jediterm-bash.in -i
+dbotsman  114076  0.0  0.0  14632  8312 ?        Ss   окт03   0:52 /usr/lib/wine/wineserver64 -p0
+dbotsman  114082  0.0  0.1 2434916 23660 ?       Ssl  окт03   0:00 C:\windows\system32\services.exe
+dbotsman  114085  0.0  0.0 1907732 10240 ?       Sl   окт03   0:00 C:\windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+dbotsman  114091  0.0  0.0 1981512 14076 ?       Sl   окт03   0:05 C:\windows\system32\winedevice.exe
+dbotsman  114097  0.0  0.1 2125752 22356 ?       Sl   окт03   0:00 C:\windows\system32\plugplay.exe
+dbotsman  114105  0.0  0.1 2273196 26664 ?       Sl   окт03   0:00 C:\windows\system32\svchost.exe -k netsvcs
+dbotsman  114112  1.0  0.1 2058700 19912 ?       Sl   окт03  10:51 C:\windows\system32\winedevice.exe
+dbotsman  114127  0.0  0.1 2689644 17020 ?       Sl   окт03   0:00 C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe /c
+dbotsman  114130  0.0  0.1 2170100 17564 ?       Sl   окт03   0:00 C:\windows\system32\rpcss.exe
+dbotsman  114997  0.0  0.0  15108  8644 pts/3    Ss+  окт03   0:00 /bin/bash
+dbotsman  125645  0.0  0.7 1184055380 121528 ?   Sl   окт03   0:04 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2146 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=141110883089 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  135824  0.0  0.9 1184061828 146528 ?   Sl   окт03   0:02 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2209 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=150320064796 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  135926  0.0  0.7 1642108 129140 ?      Sl   окт03   0:09 /usr/bin/dolphin
+dbotsman  138094  1.0  8.7 32862004 1408688 ?    Sl   окт03   7:08 /usr/bin/qbittorrent
+root      138163  0.0  0.0      0     0 ?        I<   окт03   0:24 [kworker/u17:2-rb_allocator]
+root      142107  0.0  0.0      0     0 ?        I    09:08   0:01 [kworker/u16:54-i915]
+root      142112  0.0  0.0      0     0 ?        S    09:08   0:00 [irq/155-mei_me]
+root      142151  0.0  0.0      0     0 ?        S    09:08   0:00 [nvidia]
+root      142723  0.1  0.0      0     0 ?        D<   09:08   0:04 [kworker/u17:3+i915_flip]
+root      143662  0.0  0.0      0     0 ?        I    09:15   0:01 [kworker/u16:0-ext4-rsv-conversion]
+dbotsman  144346  1.5  1.0 1184337512 170368 ?   Sl   09:33   0:42 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2231 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=162335234163 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  144377  0.3  1.3 1184051388 221396 ?   Sl   09:34   0:09 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2232 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=162340527428 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  144457  0.0  0.9 1184055688 151568 ?   Sl   09:34   0:02 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2235 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=162374635169 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+root      144969  0.0  0.0      0     0 ?        I    09:44   0:00 [kworker/4:0-events]
+dbotsman  144972  0.0  0.8 1184299588 138636 ?   Sl   09:44   0:01 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2238 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=162960891657 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+dbotsman  145005  3.5  0.9 1184055708 152240 ?   Sl   09:44   1:18 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2239 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=162968663959 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+root      145260  0.0  0.0      0     0 ?        I    09:48   0:00 [kworker/1:1-events]
+dbotsman  145786  0.0  0.3 1183977192 64520 ?    Sl   09:57   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2065 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=2241 --time-ticks-at-unix-epoch=-1664472339909748 --launch-time-ticks=163721146837 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6694370111699830424,11248931816147139663,131072
+root      146125  0.0  0.0      0     0 ?        I    10:02   0:00 [kworker/2:2]
+root      146207  0.0  0.0      0     0 ?        I    10:04   0:00 [kworker/7:1-events]
+root      146376  0.2  0.0      0     0 ?        I    10:06   0:02 [kworker/6:0-events]
+root      146456  0.0  0.0      0     0 ?        I    10:08   0:00 [kworker/u16:3-i915]
+root      146474  0.0  0.0      0     0 ?        I    10:08   0:00 [kworker/4:2]
+root      146496  0.0  0.0      0     0 ?        I    10:09   0:00 [kworker/0:1-events]
+root      146512  0.0  0.0      0     0 ?        I    10:09   0:00 [kworker/3:0-events]
+root      146533  0.0  0.0      0     0 ?        I    10:10   0:00 [kworker/5:2-mm_percpu_wq]
+root      146537  0.0  0.0      0     0 ?        I    10:10   0:00 [kworker/7:0-events]
+root      146562  0.0  0.0      0     0 ?        I    10:10   0:00 [kworker/1:0]
+root      146657  0.0  0.0      0     0 ?        I    10:12   0:00 [kworker/2:1-events]
+root      146678  0.0  0.0      0     0 ?        I<   10:12   0:00 [kworker/u17:0]
+root      146753  0.0  0.0      0     0 ?        I    10:14   0:00 [kworker/6:1-events]
+root      146805  0.0  0.0      0     0 ?        I    10:15   0:00 [kworker/3:2-events]
+root      146812  0.0  0.0      0     0 ?        I    10:15   0:00 [kworker/0:2]
+root      146859  0.0  0.0      0     0 ?        I    10:15   0:00 [kworker/5:0-events]
+root      146891  0.0  0.0      0     0 ?        I    10:16   0:00 [kworker/7:2-mm_percpu_wq]
+dbotsman  146939  0.0  0.1  87356 23052 ?        S    10:16   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinAvnZMc.31.slave-socket
+root      146948  0.0  0.0      0     0 ?        I    10:16   0:00 [kworker/u16:1-flush-259:0]
+dbotsman  146974  0.0  0.1  93680 25412 ?        S    10:16   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/tags.so tags  local:/run/user/1000/dolphinRgJdWI.32.slave-socket
+dbotsman  146978  0.0  0.1  86976 22612 ?        S    10:16   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/dolphinXXXLNT.33.slave-socket
+root      147064  0.0  0.0      0     0 ?        I    10:17   0:00 [kworker/1:2]
+dbotsman  147103  0.8  1.2 2581028 207432 ?      Sl   10:18   0:01 /usr/bin/plasma-discover
+root      147128  0.3  0.5 446220 84908 ?        Ssl  10:18   0:00 /usr/libexec/fwupd/fwupd
+dbotsman  147138  0.0  0.1 315484 31492 ?        Sl   10:18   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_http.so https  local:/run/user/1000/discoverKGCyYh.1.slave-socket
+dbotsman  147146  0.0  0.1 160576 22372 ?        Sl   10:18   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_file.so file  local:/run/user/1000/discoverPezjhJ.2.slave-socket
+dbotsman  147155  0.0  0.1 315620 31112 ?        Sl   10:18   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_http.so https  local:/run/user/1000/discovertZiNhd.3.slave-socket
+root      148010  0.0  0.0      0     0 ?        I    10:18   0:00 [kworker/u16:2-i915]
+root      148011  0.0  0.0      0     0 ?        I    10:18   0:00 [kworker/u16:4-ext4-rsv-conversion]
+root      148111  0.0  0.0      0     0 ?        I    10:18   0:00 [kworker/2:0]
+dbotsman  148215  0.0  0.1 241696 27648 ?        Sl   10:19   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/kio_trash.so trash  local:/run/user/1000/dolphinFlBCkm.43.slave-socket
+dbotsman  148220  0.1  0.5 1318568 94572 ?       Sl   10:19   0:00 /lib/x86_64-linux-gnu/libexec/kf5/kioslave5 /usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so thumbnail  local:/run/user/1000/dolphinhxTzDK.44.slave-socket
+dbotsman  148259  0.2  0.6 1387532 110240 ?      Sl   10:19   0:00 /usr/bin/konsole --workdir /home/dbotsman/develop
+dbotsman  148276  0.0  0.0  15108  9244 pts/5    Ss+  10:19   0:00 /bin/bash
+root      148819  0.0  0.0      0     0 ?        I    10:20   0:00 [kworker/6:2]
+dbotsman  148862  0.0  0.0  21996 12004 ?        S    10:21   0:00 /home/dbotsman/develop/dr_web/venv/bin/python /home/dbotsman/develop/dr_web/main.py
+dbotsman  148863  0.0  0.0   2888   972 ?        S    10:21   0:00 /bin/sh -c ps aux
+dbotsman  148864  0.0  0.0  12672  3500 ?        R    10:21   0:00 ps aux
